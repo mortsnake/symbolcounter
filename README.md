@@ -1,9 +1,7 @@
 # symbolcounter.py
 >Written by Ian Patterson  
   
->Counter of various symbols, letters, and ASCII characters.  
->Storer of various JSON files. 
->Collector of not very useful data. 
+>Counter of various symbols, letters, and ASCII characters. Storer of various JSON files. Collector of not very useful data. 
 
 
 ## What this is
